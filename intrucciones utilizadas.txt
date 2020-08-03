@@ -4,88 +4,41 @@ $ history
     3  pwd
     4  git
     5  git version
-    6  ls
-    7  cd/
     8  cd
-    9  cd /
-   10  ls
    11  ls -al
    12  ls -l
    13  ls -a
    14  clear
-   15  ls
-   16  pwd
    17  cd /c
    18  cd /d
-   19  ls
-   20  ls -at
-   21  ls -at
    22  cd APRENDIZAJE\ PLATZI/
-   23  ls
    24  cd ESCUELA\ DE\ DESARROLLO\ WEB/
-   25  mkdir proyecto1
-   26  ls
-   27  ls
    28  cd CURSO\ PROFESIONAL\ DE\ GIT\ y\ GITHUB/
-   29  mkdir Proyecto 1
-   30  cd Proyecto 1/
-   31  ls
-   32  cd Proyecto 1
-   33  cd Proyecto
-   34  cd..
    35  cd ..
-   36  ls
    37  cd 'Proyecto 1'
    38  touch texto.txt
-   39  ls
    40  rm texto.txt
-   41  ls
    42  history
-   43  clear
-   44  history
 
 dia 2
 
-   45  cd
-   46  ..
-   47  cd ..
-   48  cd ..
-   49  cd /d
-   50  ls
-   51  cd APRENDIZAJE\ PLATZI/
-   52  ls
-   53  cd ESCUELA\ DE\ DESARROLLO\ WEB/
-   54  ls
-   55  cd CURSO\ PROFESIONAL\ DE\ GIT\ y\ GITHUB/
-   56  ls
-   57  cd 'Proyecto 1'
-   58  pwd
    59  git init
-   60  ls -al
    61  code
    62  git status
-   63  git add instrucciones utilizadas.txt
-   64  git add 'instrucciones utilizadas.txt'
    65  git add 'intrucciones utilizadas.txt'
-   66  history
    67  git status
    68  git rm --cached "intrucciones utilizadas.txt"
-   69  git status
    70  git config
    71  git config --list
-   72  git config --list --show--origin
    73  git config --list --show-origin
    74  git config --global user.name "Diego Garcia"
    75  git config --global user.email "diegospar2@hotmail.com"
    76  git config --list
-   77  git status
    78  cat "intrucciones utilizadas.txt"
    79  code " intrucciones utilizadas.txt"
-   80  add " intrucciones utilizadas.txt"
    81  git add "intrucciones utilizadas.txt"
-   82  git status
    83  git commit -m "Version 1"
-   84  git status
-   85  git status
-   86  code " intrucciones utilizadas.txt"
-   87  history
+   91  git commit -m "Version 2"
+   93  git log "intrucciones utilizadas.txt"
+   94  cat "intrucciones utilizadas.txt"
+  100  git show "intrucciones utilizadas.txt"
