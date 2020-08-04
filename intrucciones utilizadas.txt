@@ -68,4 +68,4 @@ dia 3
   178  git add .
   179  git status
   180  git commit -m "Arranco mi proyecti version 1"
-  
+  181  git log --stat
