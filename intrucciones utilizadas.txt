@@ -56,4 +56,16 @@ dia 3
   153  git commit -m 'version4'
   161  git reset ae716647df66203c1bf7de0ab1f4447cb9099678 --hard
   162  git log
- 
+  166  git add .
+  167  git status
+  168  git commit -m 'version4'
+  169  git log
+  170  git diff master ae716647df66203c1bf7de0ab1f4447cb9099678
+  171  git diff ae716647df66203c1bf7de0ab1f4447cb9099678 master
+  174  git add .
+  176  git status
+  177  git diff
+  178  git add .
+  179  git status
+  180  git commit -m "Arranco mi proyecti version 1"
+  
