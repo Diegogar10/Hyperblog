@@ -42,3 +42,18 @@ dia 2
    93  git log "intrucciones utilizadas.txt"
    94  cat "intrucciones utilizadas.txt"
   100  git show "intrucciones utilizadas.txt"
+
+dia 3
+  108  git commit -m "Version 3"
+  109  git status
+  110  git log "intrucciones utilizadas.txt"
+  111  git diff ae716647df66203c1bf7de0ab1f4447cb9099678 cca5013f0ec563ac8e6728b7b28bcf2c2c3da2fe
+  128  cd 'Proyecto 1'/
+  137  git add .
+  145  git commit -m 'Version 4'
+  151  git add .
+  152  git status
+  153  git commit -m 'version4'
+  161  git reset ae716647df66203c1bf7de0ab1f4447cb9099678 --hard
+  162  git log
+ 
