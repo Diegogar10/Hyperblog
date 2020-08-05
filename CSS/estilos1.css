@@ -3,3 +3,12 @@ body{
     color: darkgreen;
     text-align: center;
 }
+#seccion{
+    border: 1px solid silver;
+    background: coral;
+    text-align: left;
+    width: 70%;
+    padding: 30px;
+    margin: 0 auto;
+    border-radius: 5px;;
+}
