@@ -106,3 +106,25 @@ dia 4
   350  git branch
   351  git pull origin master --allow-unrelated-histories
  
+  366  git config -l
+  367  git config --global user.email "diegogar92@gmail.com"
+  368  git config -l
+  369  ssh-keygen -t rsa -b 4096 -C "diegogar92@gmail.com"
+  370  cd .ssh/
+  371  code id_rsa.pub
+  372  code id_rsa
+  373  cd ..
+  374  clear
+  375  eval $(ssh-agent -s)
+  376  ~
+  377  ssh-add ~/.ssh/id_rsa
+  378  git remote -v
+  379  cd /d
+  380  cd APRENDIZAJE\ PLATZI/
+  381  cd ESCUELA\ DE\ DESARROLLO\ WEB/
+  382  cd CURSO\ PROFESIONAL\ DE\ GIT\ y\ GITHUB/
+  383  cd 'Proyecto 1'/
+  384  git remote -v
+  385  git remote set-url origin git@github.com:Diegogar10/Hyperblog.git
+  386  git remote -v
+  387  history
