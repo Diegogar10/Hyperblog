@@ -28,8 +28,12 @@ body{
 }
 #seccion h1{
     margin-top: 40px;
+<<<<<<< HEAD
 }
 p spam{
     font-weight: bold;
     font-size: 1.2 em;
+=======
+    color: black;
+>>>>>>> cabecera
 }
