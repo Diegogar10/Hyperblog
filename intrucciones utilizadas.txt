@@ -97,4 +97,12 @@ dia 4
   289  git marge cabecera
   304  git checkout cabecera
   305  git merge master
-  
+  343  git remote add origin https://github.com/Diegogar10/Hyperblog.git
+  344  git remote
+  345  git remote -v
+  346  ls -al
+  347  git push origin master
+  348  git pull origen master
+  350  git branch
+  351  git pull origin master --allow-unrelated-histories
+ 
