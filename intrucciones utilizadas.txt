@@ -75,3 +75,26 @@ dia 3
   200  git checkout 7e40fb4dc0cdd720a8a76d4a19fc7efad94b6969 "intrucciones utilizadas.txt"
   201  git checkout master "intrucciones utilizadas.txt"
 
+dia 4
+
+  244  git status
+  245  git commit -am "vesionSeccion"
+  246  git status
+  250  git show
+  253  git branch cabecera
+  255  git checkout cabecera
+  260  git checkout master
+  261  git checkout cabecera
+  262  git status
+  273  git commit -am "Diseño cabecera"
+  274  git checkout master
+  276  git add index.html
+  277  git status
+  278  git commit -m "Contenido adicionasl 1"
+  279  git sattus
+  283  git log --stat
+  285  git commit -am "nueva fuente"
+  289  git marge cabecera
+  304  git checkout cabecera
+  305  git merge master
+  
