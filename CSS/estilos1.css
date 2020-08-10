@@ -37,3 +37,10 @@ p spam{
     color: black;
 >>>>>>> cabecera
 }
+#footer{
+    background:#777;
+    color:white;
+    text-align:center;
+    padding:0.5em;
+    margin:0px -30px -30px -30px;
+}
