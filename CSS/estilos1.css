@@ -1,8 +1,9 @@
 body{
-    font-family: 'Courier New', Courier, monospace;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     color: darkgreen;
     text-align: center;
     margin:0px;
+    background: #1F324A;
 }
 #Cabecera{
     margin: -30px -30px 0px -30px;
@@ -11,7 +12,13 @@ body{
     color: aliceblue;
     font-size: 1.3em;
     font-weight: bold;
-    box-shadow:#153A67 0px -10px 70px ;
+}
+#Cabecera #logo{
+    width: 3%;
+    height: 3%;
+    margin: 0px 10px 0px 10px;
+    padding: 0px;
+    float: left;
 }
 #Cabecera #textofino{
     font-size: 0.8em;
@@ -24,16 +31,16 @@ body{
     width: 65%;
     padding: 30px;
     margin: 0 auto;
-    border-radius: 5px;;
+    border-radius: 5px;
+    background-color: aliceblue;
 }
 #seccion h1{
     margin-top: 40px;
-<<<<<<< HEAD
 }
 p spam{
     font-weight: bold;
     font-size: 1.2 em;
-=======
-    color: black;
->>>>>>> cabecera
+}
+#post{
+    background-color: aliceblue;
 }
