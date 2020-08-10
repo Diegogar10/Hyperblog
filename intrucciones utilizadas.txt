@@ -1,4 +1,4 @@
-$ history
+﻿$ history
     1  ls
     2  cd
     3  pwd
@@ -128,3 +128,14 @@ dia 4
   385  git remote set-url origin git@github.com:Diegogar10/Hyperblog.git
   386  git remote -v
   387  history
+
+   17  git clone https://github.com/Diegogar10/Hyperblog.git
+   18  ls -al
+   19  cd Hyperblog/
+   20  ls -al
+   21  history
+   22  clear
+   23  ls -al
+   24  vim 'intrucciones utilizadas.txt'
+   25  pwd
+   26  history
